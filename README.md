@@ -2,6 +2,7 @@
 
 Guia e boas práticas para a Guilda Tech
 
+
 ## Quero contribuir, o que devo fazer?
 
 A primeira coisa é criar uma issue neste repositório se apresentando e informando
@@ -57,4 +58,3 @@ Tente descrever o que você está fazendo, colocando referência da atividade no
 
 
 Com o Pull Request aberto, mande o link no canal #guilda-tech avisando que você abriu.
-
